@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T14:07:12.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Qd8ryR6lo5N3ny8XNdsd" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T14:20:51.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="BOGqGJqvxNqMegLUwMU_" version="13.10.8" type="github">
   <diagram id="_6ZOjBPBQkkBPkeE6T8r" name="Page-1">
-    <mxGraphModel dx="868" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
         <mxCell id="3Fs-QdQnjXKm7a4bQGye-39" value="Ошибка&amp;nbsp;&lt;br&gt;сети" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FEFAE0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Fs-QdQnjXKm7a4bQGye-40" value="Товар&lt;br&gt;отсутствует" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=1;" parent="1" vertex="1">
+        <mxCell id="3Fs-QdQnjXKm7a4bQGye-40" value="Товар&lt;br&gt;отсутствует&lt;br&gt;на складе" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="942.5" y="240" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Fs-QdQnjXKm7a4bQGye-43" value="Ошибка системы&lt;br&gt;оплаты" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=1;" parent="1" vertex="1">
